@@ -9,5 +9,3 @@
 * Entity Framework Core
 * Identity on ASP.NET Core
 * JavaScript/jQuery
-
-See it live here: https://blog.kgivler.com
